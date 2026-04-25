@@ -1,9 +1,5 @@
 # قاموس الطلاب
-students = {
-    "Ali": 90,
-    "Sara": 85,
-    "Mona": 95
-}
+students = {"Ali": 90, "Sara": 85, "Mona": 95}
 
 # اطبعي درجة Ali
 # اكتبي الكود هنا
