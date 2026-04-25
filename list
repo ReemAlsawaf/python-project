@@ -2,5 +2,5 @@ names = ["Ali", "Sara", "Mona"]
 
 # احذفيSara
 # اكتبي الكود هنا
-
+اين الاجابة
 print(names)
